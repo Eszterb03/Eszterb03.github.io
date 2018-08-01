@@ -15,7 +15,9 @@ a {
     color:#ff0099;   
 }
 
-.kep {image-orientation: left;
+.kep {position: absolute;
+    left:10%;
+    top: 10px;
  }
 .navibar {
     margin-right:0%; 
